@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{BD7EB677-AE85-45EF-BF4C-F08CAFB1030A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsBenchmarks", "AlgorithmsBenchmarks\AlgorithmsBenchmarks.csproj", "{50003E38-E174-4D60-9CFA-DBEF6A538A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsTests", "AlgorithmsTests\AlgorithmsTests.csproj", "{CC6FACA6-D534-42B2-93B5-C51F71C1AE53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD7EB677-AE85-45EF-BF4C-F08CAFB1030A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7EB677-AE85-45EF-BF4C-F08CAFB1030A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7EB677-AE85-45EF-BF4C-F08CAFB1030A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7EB677-AE85-45EF-BF4C-F08CAFB1030A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50003E38-E174-4D60-9CFA-DBEF6A538A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50003E38-E174-4D60-9CFA-DBEF6A538A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50003E38-E174-4D60-9CFA-DBEF6A538A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50003E38-E174-4D60-9CFA-DBEF6A538A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6FACA6-D534-42B2-93B5-C51F71C1AE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6FACA6-D534-42B2-93B5-C51F71C1AE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6FACA6-D534-42B2-93B5-C51F71C1AE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6FACA6-D534-42B2-93B5-C51F71C1AE53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
